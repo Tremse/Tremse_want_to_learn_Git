@@ -1,4 +1,4 @@
-# Tremse_want_to_learn_Git-
+# Tremse_want_to_learn_Git
 这是用来练习Vidar招新小任务“Tremse想学git!”的练习仓库！
 你需要做的有以下内容，来获取这部分问题的flag：
 

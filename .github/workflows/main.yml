@@ -22,7 +22,7 @@ jobs:
         env:
           PAT: '^[^@]+@[a-zA-Z0-9.\-]+$'
         run: |
-          [ -f mail.txt ] && [ $(wc -l < mail.txt) -le 1 ] &&grep -P "$PAT" mail.txt
+          [ -f mail.txt ] && [ $(wc -l < mail.txt) -le 1 ] && grep -P "$PAT" mail.txt
         continue-on-error: true
       
       - name: Read mail address

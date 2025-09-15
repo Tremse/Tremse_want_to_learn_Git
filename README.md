@@ -4,7 +4,7 @@
 
 1. fork该仓库
 2. 将你fork得到的仓库clone到你的本地
-3. 在你的仓库中添加一个`mail.txt`
+3. 在你的仓库中添加一个`mail.txt`(编码为utf-8)
 4. 在`mail.txt`中写下你的邮箱地址
 5. commit你的更改
 6. push你的commit到你的仓库
